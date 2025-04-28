@@ -9,7 +9,11 @@ HSI Data: https://pan.baidu.com/s/1i6mGwwBaHQFOtgxtjrsEUA?pwd=9418
 
 Meanwhile, other models (more than 150 types) are prepared in the folder for your implementationn. **Keep in mind whether they are using classification or segmentation.**
 
-### You need to change every emperimental condition (dataset, hyper-parameters, etc.) in the PU_train_v3.py file. And, get_cls_map_v3.py file is used for inference and other visuilizations.  
+You need to change every emperimental condition (dataset, hyper-parameters, etc.) in the **PU_train_v3.py** file. And, **get_cls_map_v3.py** file is used for inference and other visuilizations.  
+
+Directly run **PU_train_v3.py**
+
+
 
 
 
