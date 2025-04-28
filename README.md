@@ -6,7 +6,9 @@
 
 Here, we provide the basecode on the PU dataset for your reference and implementation. Other datasets can be download and put them into the data folder.
 
-Meanwhile, other models are prepaared in the folder for your implementationn.
+Meanwhile, other models are prepared in the folder for your implementationn.
+
+### You need to change every emperimental condition (dataset, hyper-parameters, etc.) in the PU_train_v3.py file. And, get_cls_map_v3.py file is used for inference and other visuilizations.  
 
 
 
