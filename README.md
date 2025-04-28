@@ -1,5 +1,7 @@
 # HSIseg
 
+**HSIseg: Progressively Enhanced Extensible Multi-Modality Framework for Large Patch-Wise Hyperspectral Image Segmentation**
+
 ## Paper is under review. 
 
 ![Graphical_Abstract](https://github.com/zhouweilian1904/HSI_Segmentation/blob/main/graphical_abstract.jpg)
