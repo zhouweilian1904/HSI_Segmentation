@@ -13,7 +13,11 @@ Meanwhile, other models (more than 150 types) are prepared in the folder for you
 
 You need to change every emperimental condition (dataset, hyper-parameters, etc.) in the **PU_train_v3.py** file. And, **get_cls_map_v3.py** file is used for inference and other visuilizations.  
 
-Directly run **PU_train_v3.py**
+Directly run **PU_train_v3.py** 
+
+(**Do not forget to adjust the PATCH SIZE as you like**, small one for cls., big one for seg.)
+
+
 
 
 
